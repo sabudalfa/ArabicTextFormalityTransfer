@@ -26,5 +26,5 @@ Bouamor, H., Habash, N., Salameh, M., Zaghouani, W., Rambow, O., Abdulrahim, D.,
 Meftouh, K., Harrat, S., Jamoussi, S., Abbas, M., Smaili, K.: Machine translation experiments on PADIC: A parallel arabic dialect corpus. In: Proceedings of the 29th Pacific Asia Conference on Language, Information and Computation, pp. 26–34 (2015)
 - Multi-Dialectal Parallel Corpus (MDPC):
 Bouamor, H., Habash, N., Oflazer, K.: A multidialectal parallel corpus of arabic. In: LREC, pp. 1240–1245 (2014)
-- The Bible
+- The Bible:
 Abdelali, A., Attia, M., Samih, Y., Darwish, K., Mubarak, H.: Diacritization of maghrebi arabic sub-dialects. arXiv preprint arXiv:1810.06619 (2018)

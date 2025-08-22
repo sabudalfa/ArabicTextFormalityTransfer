@@ -21,3 +21,7 @@ If you use this coee in your work, please cite our paper:
 ### Used Datasets
 
 - Multi-Arabic Dialect Applications and Resources Corpus (MADAR)
+Bouamor, H., Habash, N., Salameh, M., Zaghouani, W., Rambow, O., Abdulrahim, D., Obeid, O., Khalifa, S., Eryani, F., Erdmann, A., et al.: The madar arabic dialect corpus and lexicon. In: Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018) (2018)
+- Parallel Arabic Dialect Corpus (PADIC)
+- Multi-Dialectal Parallel Corpus (MDPC)
+- The Bible
